@@ -1,14 +1,4 @@
-gunicorn==19.9.0
-Django==2.2.2
-djangorestframework==3.9.4
-django-configurations==2.1
-python-dotenv==0.10.3
-django-debug-toolbar==1.11
-django-filter==2.1.0
-django-guardian==2.0.0
-django-model-utils==3.1.2
-django-unixtimestampfield==0.3.9
-requests==2.22.0
-flake8==3.7.7
-pep8==1.7.1
-pytz==2019.1
+Model MySql Database Diagram
+
+[Draw.io show Diagram](https://drive.google.com/file/d/1ORoWWv5NGjxqn1cJNW5bO0XKwmwjcE3I/view?usp=sharing)
+
